@@ -1,0 +1,57 @@
+[
+  {
+    "nombre": "Ayrton",
+    "apellido": "Bolaños",
+    "id": "132435465",
+    "password": "1234",
+    "fechaNacimiento": "2001-01-01",
+    "estado": false,
+    "numeroCuenta": "0505011212",
+    "saldo": 500,
+    "transacciones": []
+  },
+  {
+    "nombre": "John",
+    "apellido": "Doe",
+    "id": "123456789",
+    "password": "password123",
+    "fechaNacimiento": "1990-01-01",
+    "estado": false,
+    "numeroCuenta": "987654321",
+    "saldo": 500,
+    "transacciones": []
+  },
+  {
+    "nombre": "Jane",
+    "apellido": "Smith",
+    "id": "987654321",
+    "password": "qwerty123",
+    "fechaNacimiento": "1985-05-20",
+    "estado": false,
+    "numeroCuenta": "123456789",
+    "saldo": 750,
+    "transacciones": []
+  },
+  {
+    "nombre": "Michael",
+    "apellido": "Johnson",
+    "id": "456789123",
+    "password": "pass1234",
+    "fechaNacimiento": "1995-09-10",
+    "estado": false,
+    "numeroCuenta": "456123789",
+    "saldo": 200,
+    "transacciones": []
+  },
+  {
+    "nombre": "Sarah",
+    "apellido": "Williams",
+    "id": "789123456",
+    "password": "abc123",
+    "fechaNacimiento": "1988-12-15",
+    "estado": false,
+    "numeroCuenta": "321654987",
+    "saldo": 800,
+    "transacciones": []
+  }
+]
